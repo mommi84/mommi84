@@ -8,14 +8,15 @@
 
 🥁 My personal interests include **genealogy** (building a genealogist agent), **progressive music** (published 3 albums [as a drummer](http://tommaso-soru.it/music) and a solo AI album), and **quantitative finance** (experimented with [trading strategies](https://github.com/mommi84/hypeminer)).
 
-🤖 My AI timeline:
-- **2007**: Did B.Eng. thesis at the Artificial Intelligence & Robotics Lab, Polimi
+🤖 My AI research timeline:
+- **2007**: Did B.Eng. thesis at the Artificial Intelligence & Robotics Lab, PoliMi
 - **2010**: Built my first swarm of intelligent agents
-- **2012**: My M.Sc. work got published
+- **2012**: Published my M.Sc. work on active learning for entity resolution
 - **2016**: Started researching neuro-symbolic methods
 - **2017**: Published [Neural SPARQL Machines](github.com/LiberAI/NSpM), most cited research poster ever of the Semantics conference
 - **2018**: Implemented a generative AI model for the first time
-- **Mar 2023**: Built an [LLM agent](https://github.com/mommi84/gpt-does-stuff/) from scratch before any other platform
+- **Mar 2023**: Built an [LLM agent](https://github.com/mommi84/gpt-does-stuff/) from scratch before LLM agents were a thing
 - **Sep 2024**: Achieved 1,000 citations in [Scholar](https://scholar.google.co.uk/citations?hl=en&user=9aI21r8AAAAJ)
+- **Jan 2025**: Built an [AI-driven system](https://www.computer.org/csdl/proceedings-article/icsc/2025/242600a226/27FQF0bZore) to forecast future events
 
 ✉️ Contact details [in my CV](http://tommaso-soru.it/files/cv)!
