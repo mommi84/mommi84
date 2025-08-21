@@ -13,10 +13,10 @@
 - **2010**: Built my first swarm of intelligent agents
 - **2012**: Published my M.Sc. work on active learning for entity resolution
 - **2016**: Started researching neuro-symbolic methods
-- **2017**: Published [Neural SPARQL Machines](github.com/LiberAI/NSpM), most cited research poster ever of the Semantics conference
+- **2017**: Published [Neural SPARQL Machines](https://github.com/LiberAI/NSpM), most cited research poster ever of the Semantics conference
 - **2018**: Implemented a generative AI model for the first time
-- **Mar 2023**: Built an [LLM agent](https://github.com/mommi84/gpt-does-stuff/) from scratch before LLM agents were a thing
-- **Sep 2024**: Achieved 1,000 citations in [Scholar](https://scholar.google.co.uk/citations?hl=en&user=9aI21r8AAAAJ)
+- **Mar 2023**: Built an [LLM agent](https://github.com/mommi84/gpt-does-stuff) from scratch before LLM agents were a thing
+- **Sep 2024**: Reached 1,000 citations in [Scholar](https://scholar.google.co.uk/citations?hl=en&user=9aI21r8AAAAJ)
 - **Jan 2025**: Built an [AI-driven system](https://www.computer.org/csdl/proceedings-article/icsc/2025/242600a226/27FQF0bZore) to forecast future events
 - **Jul 2025**: My open-source organisation [Liber AI](https://github.com/LiberAI) is now officially a Neuro-Symbolic AI consultancy
 
